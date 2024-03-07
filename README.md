@@ -10,16 +10,42 @@ Você deve seguir os seguintes requisitos:
 ![listaDeTarefas](https://github.com/CarlosHMoreira848/desafio-da-lista-de-tarefas-java/assets/84051885/a86f4f7a-6fe1-4021-beb2-cca013dff8ab)
 ## Temas envolvidos na resolução
 - Variáveis;
-- Entrada de dados: 'objeto'.nextLine(),'objeto'.next();
+- Entrada de dados: 'objeto'.nextLine(),'objeto'.next(), 'objeto'.nextInt();
 - Saída de dados: System.out.println();
 - Criação de objeto;
 - Criação de classes;
+- Criação de lista de objetos: ArrayList<Tarefa>;
+- Generics;
 - Passagem de parâmetros na chamada de métodos;
 - Método construtor;
 - Modificadores de acesso: 'privado' e 'público';
-- Chamada de métodos na classe principal;
+- Chamada de método na classe principal;
 - Métodos getters e setters;
-- Operadore relacional: '<';
+- Operadores relacionais: '<' e '==';
 - Estruturas condicionais: 'if', 'else' e 'switch case';
 - Estrutura de repetição: 'while' e 'for';
-- Biblioteca: Java.Util.Scanner;
+- Métodos:
+  - toString(),
+  - LocalTime.now(),
+  - Collections.sort(),
+  - Comparator.comparing(),
+  - 'objeto'.get(index),
+  - charAt(index),
+  - 'objeto'.equals(),
+  - 'objeto'.size(),
+  - 'objeto'.add(),
+  - 'objeto'.remove(),
+  - 'objeto'.parse()
+- Bibliotecas:
+  - java.Util.Scanner;
+  - java.util.ArrayList;
+  - java.util.ParseException;
+  - java.text.SimpleDateFormat;
+  - java.time.LocalTime;
+  - java.util.ArrayList;
+  - java.util.Collections;
+  - java.util.Comparator;
+  - java.util.Date;
+  - java.util.List;
+  - ava.util.TimeZone;
+
