@@ -47,5 +47,5 @@ Você deve seguir os seguintes requisitos:
   - java.util.Comparator;
   - java.util.Date;
   - java.util.List;
-  - ava.util.TimeZone;
+  - java.util.TimeZone;
 
